@@ -41,76 +41,86 @@ La implementación se realiza en la herramienta Google Colaboratory (Colab).
 
 ## Algunas gráficas obtenidas
 
-### Exploración univariada
+### - Exploración univariada
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/dist-salarios.jpg" alt="Distribución de salarios en USD">
   <figcaption style="font-size:90%; text-align:center">Distribución de salarios en USD</figcaption>
+  <img src="./images/dist-salarios.jpg" alt="Distribución de salarios en USD">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/top-titulos-empleos.jpg" alt="Top 10 de títulos de empleos o roles más frecuentes">
   <figcaption style="font-size:90%; text-align:center">Top 10 de títulos de empleos o roles más frecuentes</figcaption>
+  <img src="./images/top-titulos-empleos.jpg" alt="Top 10 de títulos de empleos o roles más frecuentes">
 </figure>
 </p>
 
-### Exploración bivariada
+### - Exploración bivariada
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/cajas-bigotes-salarios-años.jpg" alt="Diagrama de cajas y bigotes de la relación entre salario en USD y año pagado">
   <figcaption style="font-size:90%; text-align:center">Diagrama de cajas y bigotes de la relación entre salario en USD y año pagado</figcaption>
+  <img src="./images/cajas-bigotes-salarios-años.jpg" alt="Diagrama de cajas y bigotes de la relación entre salario en USD y año pagado">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/salario-años.jpg" alt="Gráfica de salario promedio en USD y año pagado">
   <figcaption style="font-size:90%; text-align:center">Gráfica de salario promedio en USD y año pagado</figcaption>
+  <img src="./images/salario-años.jpg" alt="Gráfica de salario promedio en USD y año pagado">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/cajas-bigotes-salarios-experiencia.jpg" alt="Diagrama de cajas y bigotes de la relación entre salario en USD y nivel de experiencia">
   <figcaption style="font-size:90%; text-align:center">Diagrama de cajas y bigotes de la relación entre salario en USD y nivel de experiencia</figcaption>
+  <img src="./images/cajas-bigotes-salarios-experiencia.jpg" alt="Diagrama de cajas y bigotes de la relación entre salario en USD y nivel de experiencia">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/salario-experiencia.jpg" alt="Gráfica de salario promedio en USD y nivel de experiencia">
   <figcaption style="font-size:90%; text-align:center">Gráfica de salario promedio en USD y nivel de experiencia</figcaption>
+  <img src="./images/salario-experiencia.jpg" alt="Gráfica de salario promedio en USD y nivel de experiencia">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/salario-ubicacion-empleados.jpg" alt="Gráfica de salario promedio en USD para las 5 ubicaciones de empleado más frecuentes">
   <figcaption style="font-size:90%; text-align:center">Gráfica de salario promedio en USD para las 5 ubicaciones de empleado más frecuentes</figcaption>
+  <img src="./images/salario-ubicacion-empleados.jpg" alt="Gráfica de salario promedio en USD para las 5 ubicaciones de empleado más frecuentes">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/mapa-salario-ubicacion-empleado.jpg" alt="Mapa de salario por ubicación de empleado">
   <figcaption style="font-size:90%; text-align:center">Mapa de salario por ubicación de empleado</figcaption>
+  <img src="./images/mapa-salario-ubicacion-empleado.jpg" alt="Mapa de salario por ubicación de empleado">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/mapa-salario-ubicacion-empresa.jpg" alt="Mapa de salario por ubicación de empresa">
   <figcaption style="font-size:90%; text-align:center">Mapa de salario por ubicación de empresa</figcaption>
+  <img src="./images/mapa-salario-ubicacion-empresa.jpg" alt="Mapa de salario por ubicación de empresa">
 </figure>
 </p>
 
 <p>
+<br>
 <figure style="margin:0">
-  <img src="./images/salario-top-roles.jpg" alt="Gráfica de salario promedio en USD para los 10 títulos de empleos o roles más frecuentes">
   <figcaption style="font-size:90%; text-align:center">Gráfica de salario promedio en USD para los 10 títulos de empleos o roles más frecuentes</figcaption>
+  <img src="./images/salario-top-roles.jpg" alt="Gráfica de salario promedio en USD para los 10 títulos de empleos o roles más frecuentes">
 </figure>
 </p>
 
